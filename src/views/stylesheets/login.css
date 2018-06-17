@@ -1,0 +1,27 @@
+.login-wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+input[type=text], input[type=password] {
+    margin-top: 10px;
+}
+
+.form-signin {
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+
+.form-signin-heading {
+    margin: 0 auto;
+    text-align: center;
+}
